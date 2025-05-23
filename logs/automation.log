@@ -1,0 +1,63 @@
+2025-05-22 22:05:31 INFO  TS_001_Registration:16 - *** Test Case Started ***
+2025-05-22 22:05:32 INFO  TS_001_Registration:20 - Clicked on My Account
+2025-05-22 22:05:32 INFO  TS_002_LoginTest:22 - Clicked on My Account
+2025-05-22 22:05:33 INFO  TS_001_Registration:22 - Clicked on Register
+2025-05-22 22:05:33 INFO  TS_002_LoginTest:24 - Clicked on Login
+2025-05-22 22:05:33 INFO  TS_001_Registration:26 - Providing Customer Details
+2025-05-22 22:05:33 INFO  TS_002_LoginTest:29 - Email entered
+2025-05-22 22:05:34 INFO  TS_002_LoginTest:31 - Password entered
+2025-05-22 22:05:35 INFO  TS_002_LoginTest:33 - clicked on login
+2025-05-22 22:05:35 INFO  TS_002_LoginTest:37 - Validation
+2025-05-22 22:05:35 INFO  TS_002_LoginTest:47 - TS_002_Test case Finished
+2025-05-22 22:05:36 INFO  TS_001_Registration:36 - Validating Expected result
+2025-05-22 22:05:36 INFO  TS_001_Registration:56 - *** Test Case Finished ***
+2025-05-22 22:05:41 INFO  TS_002_LoginTest:16 - TS_002_Test case Started
+2025-05-22 22:05:42 INFO  TS_002_LoginTest:22 - Clicked on My Account
+2025-05-22 22:05:42 INFO  TS_002_LoginTest:24 - Clicked on Login
+2025-05-22 22:05:43 INFO  TS_002_LoginTest:29 - Email entered
+2025-05-22 22:05:43 INFO  TS_002_LoginTest:31 - Password entered
+2025-05-22 22:05:44 INFO  TS_002_LoginTest:33 - clicked on login
+2025-05-22 22:05:44 INFO  TS_002_LoginTest:37 - Validation
+2025-05-22 22:05:45 INFO  TS_002_LoginTest:47 - TS_002_Test case Finished
+2025-05-22 22:26:59 INFO  TS_001_Registration:16 - *** Test Case Started ***
+2025-05-22 22:26:59 INFO  TS_001_Registration:20 - Clicked on My Account
+2025-05-22 22:27:00 INFO  TS_001_Registration:22 - Clicked on Register
+2025-05-22 22:27:00 INFO  TS_001_Registration:26 - Providing Customer Details
+2025-05-22 22:27:03 INFO  TS_001_Registration:36 - Validating Expected result
+2025-05-22 22:27:03 INFO  TS_001_Registration:56 - *** Test Case Finished ***
+2025-05-22 22:27:09 INFO  TS_002_LoginTest:16 - TS_002_Test case Started
+2025-05-22 22:27:09 INFO  TS_002_LoginTest:22 - Clicked on My Account
+2025-05-22 22:27:10 INFO  TS_002_LoginTest:24 - Clicked on Login
+2025-05-22 22:27:10 INFO  TS_002_LoginTest:29 - Email entered
+2025-05-22 22:27:10 INFO  TS_002_LoginTest:31 - Password entered
+2025-05-22 22:27:12 INFO  TS_002_LoginTest:33 - clicked on login
+2025-05-22 22:27:12 INFO  TS_002_LoginTest:37 - Validation
+2025-05-22 22:27:12 INFO  TS_002_LoginTest:47 - TS_002_Test case Finished
+2025-05-22 22:47:22 INFO  TS_001_Registration:16 - *** Test Case Started ***
+2025-05-22 22:47:24 INFO  TS_001_Registration:20 - Clicked on My Account
+2025-05-22 22:47:27 INFO  TS_001_Registration:22 - Clicked on Register
+2025-05-22 22:47:27 INFO  TS_001_Registration:26 - Providing Customer Details
+2025-05-22 22:47:29 INFO  TS_001_Registration:36 - Validating Expected result
+2025-05-22 22:47:29 INFO  TS_001_Registration:56 - *** Test Case Finished ***
+2025-05-22 22:47:33 INFO  TS_002_LoginTest:16 - TS_002_Test case Started
+2025-05-22 22:47:33 INFO  TS_002_LoginTest:22 - Clicked on My Account
+2025-05-22 22:47:33 INFO  TS_002_LoginTest:24 - Clicked on Login
+2025-05-22 22:47:34 INFO  TS_002_LoginTest:29 - Email entered
+2025-05-22 22:47:34 INFO  TS_002_LoginTest:31 - Password entered
+2025-05-22 22:47:34 INFO  TS_002_LoginTest:33 - clicked on login
+2025-05-22 22:47:34 INFO  TS_002_LoginTest:37 - Validation
+2025-05-22 22:47:35 INFO  TS_002_LoginTest:47 - TS_002_Test case Finished
+2025-05-22 22:55:01 INFO  TS_001_Registration:16 - *** Test Case Started ***
+2025-05-22 22:55:02 INFO  TS_001_Registration:20 - Clicked on My Account
+2025-05-22 22:55:03 INFO  TS_001_Registration:22 - Clicked on Register
+2025-05-22 22:55:03 INFO  TS_001_Registration:26 - Providing Customer Details
+2025-05-22 22:55:06 INFO  TS_001_Registration:36 - Validating Expected result
+2025-05-22 22:55:07 INFO  TS_001_Registration:56 - *** Test Case Finished ***
+2025-05-22 22:55:10 INFO  TS_002_LoginTest:16 - TS_002_Test case Started
+2025-05-22 22:55:11 INFO  TS_002_LoginTest:22 - Clicked on My Account
+2025-05-22 22:55:11 INFO  TS_002_LoginTest:24 - Clicked on Login
+2025-05-22 22:55:11 INFO  TS_002_LoginTest:29 - Email entered
+2025-05-22 22:55:11 INFO  TS_002_LoginTest:31 - Password entered
+2025-05-22 22:55:13 INFO  TS_002_LoginTest:33 - clicked on login
+2025-05-22 22:55:13 INFO  TS_002_LoginTest:37 - Validation
+2025-05-22 22:55:13 INFO  TS_002_LoginTest:47 - TS_002_Test case Finished
