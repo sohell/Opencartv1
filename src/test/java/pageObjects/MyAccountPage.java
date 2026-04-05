@@ -17,9 +17,41 @@ public class MyAccountPage extends BasePage
 	@FindBy(xpath = "//div[@class='list-group']//a[text()='Logout']")
 	WebElement lnkLogout;
 	
+	@FindBy(xpath="//a[@title='My Account']")
+	WebElement myAccount;
+	
+	@FindBy(xpath="//ul[@class='dropdown-menu dropdown-menu-right']//a[normalize-space()='Logout']")
+	WebElement lnkLogout1;
+	
+	@FindBy(xpath="//a[normalize-space()='Desktops']")
+	WebElement desktopHeader;
+	
+	@FindBy(xpath="//a[normalize-space()='Show AllDesktops']")
+	WebElement showAllDesktopHeader;
+	
 	public void clickLogout()
 	{
 		lnkLogout.click();
+	}
+	
+	public void clickMyAccount()
+	{
+		myAccount.click();
+	}
+	
+	public void clickLogout1()
+	{
+		lnkLogout1.click();
+	}
+	
+	public void hoverOverDesktop()
+	{
+		actions.moveToElement(desktopHeader).perform();;
+	}
+	
+	public void clickOnShowAllDesktop()
+	{
+		actions.moveToElement(showAllDesktopHeader).doubleClick().perform();;
 	}
 	
 	public boolean isAccountPageExist()

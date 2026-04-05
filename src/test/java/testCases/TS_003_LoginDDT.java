@@ -14,9 +14,10 @@ public class TS_003_LoginDDT extends BaseClass
 	@Test(dataProvider="LoginData", dataProviderClass=DataProviders.class,groups={"Regression","Master"})
 	void verify_loginDDT(String email, String password, String expected)
 	{
-		HomePage hp = new HomePage(driver);
 		try
 		{
+			HomePage hp = new HomePage(driver);
+		
 			hp.clickMyAccount();
 			logger.info("My Account Clicked ");
 			hp.clickLogin();

@@ -9,8 +9,7 @@
   <parameter name="os" value="Windows"/>
   <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.TS_001_Registration"/>
-      <class name="testCases.TS_002_LoginTest"/>
+      <class name="testCases.TS_009_Wish_List"/>
     </classes>
   </test> <!-- Test -->
   

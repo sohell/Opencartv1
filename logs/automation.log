@@ -1,63 +1,159 @@
-2025-05-22 22:05:31 INFO  TS_001_Registration:16 - *** Test Case Started ***
-2025-05-22 22:05:32 INFO  TS_001_Registration:20 - Clicked on My Account
-2025-05-22 22:05:32 INFO  TS_002_LoginTest:22 - Clicked on My Account
-2025-05-22 22:05:33 INFO  TS_001_Registration:22 - Clicked on Register
-2025-05-22 22:05:33 INFO  TS_002_LoginTest:24 - Clicked on Login
-2025-05-22 22:05:33 INFO  TS_001_Registration:26 - Providing Customer Details
-2025-05-22 22:05:33 INFO  TS_002_LoginTest:29 - Email entered
-2025-05-22 22:05:34 INFO  TS_002_LoginTest:31 - Password entered
-2025-05-22 22:05:35 INFO  TS_002_LoginTest:33 - clicked on login
-2025-05-22 22:05:35 INFO  TS_002_LoginTest:37 - Validation
-2025-05-22 22:05:35 INFO  TS_002_LoginTest:47 - TS_002_Test case Finished
-2025-05-22 22:05:36 INFO  TS_001_Registration:36 - Validating Expected result
-2025-05-22 22:05:36 INFO  TS_001_Registration:56 - *** Test Case Finished ***
-2025-05-22 22:05:41 INFO  TS_002_LoginTest:16 - TS_002_Test case Started
-2025-05-22 22:05:42 INFO  TS_002_LoginTest:22 - Clicked on My Account
-2025-05-22 22:05:42 INFO  TS_002_LoginTest:24 - Clicked on Login
-2025-05-22 22:05:43 INFO  TS_002_LoginTest:29 - Email entered
-2025-05-22 22:05:43 INFO  TS_002_LoginTest:31 - Password entered
-2025-05-22 22:05:44 INFO  TS_002_LoginTest:33 - clicked on login
-2025-05-22 22:05:44 INFO  TS_002_LoginTest:37 - Validation
-2025-05-22 22:05:45 INFO  TS_002_LoginTest:47 - TS_002_Test case Finished
-2025-05-22 22:26:59 INFO  TS_001_Registration:16 - *** Test Case Started ***
-2025-05-22 22:26:59 INFO  TS_001_Registration:20 - Clicked on My Account
-2025-05-22 22:27:00 INFO  TS_001_Registration:22 - Clicked on Register
-2025-05-22 22:27:00 INFO  TS_001_Registration:26 - Providing Customer Details
-2025-05-22 22:27:03 INFO  TS_001_Registration:36 - Validating Expected result
-2025-05-22 22:27:03 INFO  TS_001_Registration:56 - *** Test Case Finished ***
-2025-05-22 22:27:09 INFO  TS_002_LoginTest:16 - TS_002_Test case Started
-2025-05-22 22:27:09 INFO  TS_002_LoginTest:22 - Clicked on My Account
-2025-05-22 22:27:10 INFO  TS_002_LoginTest:24 - Clicked on Login
-2025-05-22 22:27:10 INFO  TS_002_LoginTest:29 - Email entered
-2025-05-22 22:27:10 INFO  TS_002_LoginTest:31 - Password entered
-2025-05-22 22:27:12 INFO  TS_002_LoginTest:33 - clicked on login
-2025-05-22 22:27:12 INFO  TS_002_LoginTest:37 - Validation
-2025-05-22 22:27:12 INFO  TS_002_LoginTest:47 - TS_002_Test case Finished
-2025-05-22 22:47:22 INFO  TS_001_Registration:16 - *** Test Case Started ***
-2025-05-22 22:47:24 INFO  TS_001_Registration:20 - Clicked on My Account
-2025-05-22 22:47:27 INFO  TS_001_Registration:22 - Clicked on Register
-2025-05-22 22:47:27 INFO  TS_001_Registration:26 - Providing Customer Details
-2025-05-22 22:47:29 INFO  TS_001_Registration:36 - Validating Expected result
-2025-05-22 22:47:29 INFO  TS_001_Registration:56 - *** Test Case Finished ***
-2025-05-22 22:47:33 INFO  TS_002_LoginTest:16 - TS_002_Test case Started
-2025-05-22 22:47:33 INFO  TS_002_LoginTest:22 - Clicked on My Account
-2025-05-22 22:47:33 INFO  TS_002_LoginTest:24 - Clicked on Login
-2025-05-22 22:47:34 INFO  TS_002_LoginTest:29 - Email entered
-2025-05-22 22:47:34 INFO  TS_002_LoginTest:31 - Password entered
-2025-05-22 22:47:34 INFO  TS_002_LoginTest:33 - clicked on login
-2025-05-22 22:47:34 INFO  TS_002_LoginTest:37 - Validation
-2025-05-22 22:47:35 INFO  TS_002_LoginTest:47 - TS_002_Test case Finished
-2025-05-22 22:55:01 INFO  TS_001_Registration:16 - *** Test Case Started ***
-2025-05-22 22:55:02 INFO  TS_001_Registration:20 - Clicked on My Account
-2025-05-22 22:55:03 INFO  TS_001_Registration:22 - Clicked on Register
-2025-05-22 22:55:03 INFO  TS_001_Registration:26 - Providing Customer Details
-2025-05-22 22:55:06 INFO  TS_001_Registration:36 - Validating Expected result
-2025-05-22 22:55:07 INFO  TS_001_Registration:56 - *** Test Case Finished ***
-2025-05-22 22:55:10 INFO  TS_002_LoginTest:16 - TS_002_Test case Started
-2025-05-22 22:55:11 INFO  TS_002_LoginTest:22 - Clicked on My Account
-2025-05-22 22:55:11 INFO  TS_002_LoginTest:24 - Clicked on Login
-2025-05-22 22:55:11 INFO  TS_002_LoginTest:29 - Email entered
-2025-05-22 22:55:11 INFO  TS_002_LoginTest:31 - Password entered
-2025-05-22 22:55:13 INFO  TS_002_LoginTest:33 - clicked on login
-2025-05-22 22:55:13 INFO  TS_002_LoginTest:37 - Validation
-2025-05-22 22:55:13 INFO  TS_002_LoginTest:47 - TS_002_Test case Finished
+2025-06-21 15:40:41 INFO  TS_008_Add_to_Cart:15 - Entering a Product name
+2025-06-21 15:40:41 INFO  TS_008_Add_to_Cart:17 - Clicking on Search button
+2025-06-21 15:40:42 INFO  TS_008_Add_to_Cart:21 - clicking on Add To Cart
+2025-06-21 15:40:42 INFO  TS_008_Add_to_Cart:23 - Getting Add To Cart Msg
+2025-06-21 15:47:11 INFO  TS_008_Add_to_Cart:18 - Entering a Product name
+2025-06-21 15:47:11 INFO  TS_008_Add_to_Cart:20 - Clicking on Search button
+2025-06-21 15:47:11 INFO  TS_008_Add_to_Cart:24 - clicking on Add To Cart
+2025-06-21 15:47:12 INFO  TS_008_Add_to_Cart:26 - Getting Add To Cart Msg
+2025-06-21 16:28:46 INFO  TS_008_Add_to_Cart:19 - Entering a Product name
+2025-06-21 16:28:46 INFO  TS_008_Add_to_Cart:21 - Clicking on Search button
+2025-06-21 16:28:48 INFO  TS_008_Add_to_Cart:25 - clicking on Add To Cart
+2025-06-21 16:28:48 INFO  TS_008_Add_to_Cart:27 - Getting Add To Cart Msg
+2025-06-21 16:28:48 INFO  TS_008_Add_to_Cart:41 - clicking on Cart button
+2025-06-21 18:15:28 INFO  TS_008_Add_to_Cart:19 - Entering a Product name
+2025-06-21 18:15:28 INFO  TS_008_Add_to_Cart:21 - Clicking on Search button
+2025-06-21 18:15:28 INFO  TS_008_Add_to_Cart:25 - clicking on Add To Cart
+2025-06-21 18:15:28 INFO  TS_008_Add_to_Cart:27 - Getting Add To Cart Msg
+2025-06-21 18:15:31 INFO  TS_008_Add_to_Cart:41 - clicking on Cart button
+2025-06-21 18:15:33 INFO  TS_008_Add_to_Cart:44 - clicking on View Cart
+2025-06-21 18:15:33 INFO  TS_008_Add_to_Cart:47 - In Shopping Cart Page
+2025-06-21 18:21:11 INFO  TS_008_Add_to_Cart:19 - Entering a Product name
+2025-06-21 18:21:11 INFO  TS_008_Add_to_Cart:21 - Clicking on Search button
+2025-06-21 18:21:11 INFO  TS_008_Add_to_Cart:25 - clicking on Add To Cart
+2025-06-21 18:21:12 INFO  TS_008_Add_to_Cart:27 - Getting Add To Cart Msg
+2025-06-21 18:21:13 INFO  TS_008_Add_to_Cart:41 - clicking on Cart button
+2025-06-21 18:26:11 INFO  TS_008_Add_to_Cart:19 - Entering a Product name
+2025-06-21 18:26:11 INFO  TS_008_Add_to_Cart:21 - Clicking on Search button
+2025-06-21 18:26:12 INFO  TS_008_Add_to_Cart:25 - clicking on Add To Cart
+2025-06-21 18:26:12 INFO  TS_008_Add_to_Cart:27 - Getting Add To Cart Msg
+2025-06-21 18:26:12 INFO  TS_008_Add_to_Cart:41 - clicking on Cart button
+2025-06-21 18:33:32 INFO  TS_008_Add_to_Cart:19 - Entering a Product name
+2025-06-21 18:33:32 INFO  TS_008_Add_to_Cart:21 - Clicking on Search button
+2025-06-21 18:33:33 INFO  TS_008_Add_to_Cart:25 - clicking on Add To Cart
+2025-06-21 18:33:33 INFO  TS_008_Add_to_Cart:27 - Getting Add To Cart Msg
+2025-06-21 18:33:33 INFO  TS_008_Add_to_Cart:41 - clicking on Cart button
+2025-06-21 18:38:11 INFO  TS_008_Add_to_Cart:19 - Entering a Product name
+2025-06-21 18:38:11 INFO  TS_008_Add_to_Cart:21 - Clicking on Search button
+2025-06-21 18:38:12 INFO  TS_008_Add_to_Cart:25 - clicking on Add To Cart
+2025-06-21 18:38:12 INFO  TS_008_Add_to_Cart:27 - Getting Add To Cart Msg
+2025-06-21 18:38:12 INFO  TS_008_Add_to_Cart:41 - clicking on Cart button
+2025-06-21 18:42:22 INFO  TS_008_Add_to_Cart:19 - Entering a Product name
+2025-06-21 18:42:22 INFO  TS_008_Add_to_Cart:21 - Clicking on Search button
+2025-06-21 18:42:23 INFO  TS_008_Add_to_Cart:25 - clicking on Add To Cart
+2025-06-21 18:42:23 INFO  TS_008_Add_to_Cart:27 - Getting Add To Cart Msg
+2025-06-21 18:42:23 INFO  TS_008_Add_to_Cart:41 - clicking on Cart button
+2025-06-21 18:48:13 INFO  TS_008_Add_to_Cart:19 - Entering a Product name
+2025-06-21 18:48:13 INFO  TS_008_Add_to_Cart:21 - Clicking on Search button
+2025-06-21 18:48:14 INFO  TS_008_Add_to_Cart:25 - clicking on Add To Cart
+2025-06-21 18:48:14 INFO  TS_008_Add_to_Cart:27 - Getting Add To Cart Msg
+2025-06-21 18:48:15 INFO  TS_008_Add_to_Cart:41 - clicking on Cart button
+2025-06-21 18:53:50 INFO  TS_008_Add_to_Cart:19 - Entering a Product name
+2025-06-21 18:53:50 INFO  TS_008_Add_to_Cart:21 - Clicking on Search button
+2025-06-21 18:53:51 INFO  TS_008_Add_to_Cart:25 - clicking on Add To Cart
+2025-06-21 18:53:51 INFO  TS_008_Add_to_Cart:27 - Getting Add To Cart Msg
+2025-06-21 18:53:52 INFO  TS_008_Add_to_Cart:41 - clicking on Cart button
+2025-06-21 19:06:30 INFO  TS_008_Add_to_Cart:19 - Entering a Product name
+2025-06-21 19:06:30 INFO  TS_008_Add_to_Cart:21 - Clicking on Search button
+2025-06-21 19:06:30 INFO  TS_008_Add_to_Cart:25 - clicking on Add To Cart
+2025-06-21 19:06:31 INFO  TS_008_Add_to_Cart:27 - Getting Add To Cart Msg
+2025-06-21 19:06:31 INFO  TS_008_Add_to_Cart:41 - clicking on Cart button
+2025-06-21 19:11:53 INFO  TS_008_Add_to_Cart:19 - Entering a Product name
+2025-06-21 19:11:53 INFO  TS_008_Add_to_Cart:21 - Clicking on Search button
+2025-06-21 19:11:54 INFO  TS_008_Add_to_Cart:25 - clicking on Add To Cart
+2025-06-21 19:11:54 INFO  TS_008_Add_to_Cart:27 - Getting Add To Cart Msg
+2025-06-21 19:11:54 INFO  TS_008_Add_to_Cart:41 - clicking on Cart button
+2025-06-21 19:11:55 INFO  TS_008_Add_to_Cart:44 - clicking on View Cart
+2025-06-21 19:11:55 INFO  TS_008_Add_to_Cart:47 - In Shopping Cart Page
+2025-06-21 19:17:29 INFO  TS_008_Add_to_Cart:19 - Entering a Product name
+2025-06-21 19:17:29 INFO  TS_008_Add_to_Cart:21 - Clicking on Search button
+2025-06-21 19:17:37 INFO  TS_008_Add_to_Cart:25 - clicking on Add To Cart
+2025-06-21 19:17:37 INFO  TS_008_Add_to_Cart:27 - Getting Add To Cart Msg
+2025-06-21 19:17:37 INFO  TS_008_Add_to_Cart:41 - clicking on Cart button
+2025-06-21 19:17:38 INFO  TS_008_Add_to_Cart:44 - clicking on View Cart
+2025-06-21 19:17:42 INFO  TS_008_Add_to_Cart:47 - In Shopping Cart Page
+2025-06-21 19:20:00 INFO  TS_008_Add_to_Cart:19 - Entering a Product name
+2025-06-21 19:20:00 INFO  TS_008_Add_to_Cart:21 - Clicking on Search button
+2025-06-21 19:20:03 INFO  TS_008_Add_to_Cart:25 - clicking on Add To Cart
+2025-06-21 19:20:03 INFO  TS_008_Add_to_Cart:27 - Getting Add To Cart Msg
+2025-06-21 19:20:04 INFO  TS_008_Add_to_Cart:41 - clicking on Cart button
+2025-06-21 19:20:04 INFO  TS_008_Add_to_Cart:44 - clicking on View Cart
+2025-06-21 19:20:06 INFO  TS_008_Add_to_Cart:47 - In Shopping Cart Page
+2025-06-21 19:20:06 INFO  TS_008_Add_to_Cart:62 - Finished
+2025-06-21 22:04:39 INFO  TS_008_Add_to_Cart:19 - Entering a Product name
+2025-06-21 22:04:40 INFO  TS_008_Add_to_Cart:21 - Clicking on Search button
+2025-06-21 22:04:41 INFO  TS_008_Add_to_Cart:25 - clicking on Add To Cart
+2025-06-21 22:04:41 INFO  TS_008_Add_to_Cart:27 - Getting Add To Cart Msg
+2025-06-21 22:04:42 INFO  TS_008_Add_to_Cart:41 - clicking on Cart button
+2025-06-21 22:04:43 INFO  TS_008_Add_to_Cart:44 - clicking on View Cart
+2025-06-21 22:07:05 INFO  TS_008_Add_to_Cart:19 - Entering a Product name
+2025-06-21 22:07:06 INFO  TS_008_Add_to_Cart:21 - Clicking on Search button
+2025-06-21 22:07:06 INFO  TS_008_Add_to_Cart:25 - clicking on Add To Cart
+2025-06-21 22:07:06 INFO  TS_008_Add_to_Cart:27 - Getting Add To Cart Msg
+2025-06-21 22:07:07 INFO  TS_008_Add_to_Cart:41 - clicking on Cart button
+2025-06-21 22:08:59 INFO  TS_008_Add_to_Cart:19 - Entering a Product name
+2025-06-21 22:08:59 INFO  TS_008_Add_to_Cart:21 - Clicking on Search button
+2025-06-21 22:09:00 INFO  TS_008_Add_to_Cart:25 - clicking on Add To Cart
+2025-06-21 22:09:00 INFO  TS_008_Add_to_Cart:27 - Getting Add To Cart Msg
+2025-06-21 22:09:00 INFO  TS_008_Add_to_Cart:41 - clicking on Cart button
+2025-06-21 22:14:02 INFO  TS_008_Add_to_Cart:19 - Entering a Product name
+2025-06-21 22:14:02 INFO  TS_008_Add_to_Cart:21 - Clicking on Search button
+2025-06-21 22:14:03 INFO  TS_008_Add_to_Cart:25 - clicking on Add To Cart
+2025-06-21 22:14:03 INFO  TS_008_Add_to_Cart:27 - Getting Add To Cart Msg
+2025-06-21 22:14:03 INFO  TS_008_Add_to_Cart:41 - clicking on Cart button
+2025-06-21 22:15:52 INFO  TS_008_Add_to_Cart:19 - Entering a Product name
+2025-06-21 22:15:52 INFO  TS_008_Add_to_Cart:21 - Clicking on Search button
+2025-06-21 22:15:52 INFO  TS_008_Add_to_Cart:25 - clicking on Add To Cart
+2025-06-21 22:15:52 INFO  TS_008_Add_to_Cart:27 - Getting Add To Cart Msg
+2025-06-21 22:15:53 INFO  TS_008_Add_to_Cart:41 - clicking on Cart button
+2025-06-21 22:19:39 INFO  TS_008_Add_to_Cart:19 - Entering a Product name
+2025-06-21 22:19:39 INFO  TS_008_Add_to_Cart:21 - Clicking on Search button
+2025-06-21 22:19:40 INFO  TS_008_Add_to_Cart:25 - clicking on Add To Cart
+2025-06-21 22:19:40 INFO  TS_008_Add_to_Cart:27 - Getting Add To Cart Msg
+2025-06-21 22:19:40 INFO  TS_008_Add_to_Cart:41 - clicking on Cart button
+2025-06-21 22:28:04 INFO  TS_008_Add_to_Cart:19 - Entering a Product name
+2025-06-21 22:28:04 INFO  TS_008_Add_to_Cart:21 - Clicking on Search button
+2025-06-21 22:28:05 INFO  TS_008_Add_to_Cart:25 - clicking on Add To Cart
+2025-06-21 22:28:05 INFO  TS_008_Add_to_Cart:27 - Getting Add To Cart Msg
+2025-06-21 22:28:05 INFO  TS_008_Add_to_Cart:41 - clicking on Cart button
+2025-06-21 22:28:44 INFO  TS_008_Add_to_Cart:19 - Entering a Product name
+2025-06-21 22:28:51 INFO  TS_008_Add_to_Cart:21 - Clicking on Search button
+2025-06-21 22:28:52 INFO  TS_008_Add_to_Cart:25 - clicking on Add To Cart
+2025-06-21 22:28:52 INFO  TS_008_Add_to_Cart:27 - Getting Add To Cart Msg
+2025-06-21 22:28:52 INFO  TS_008_Add_to_Cart:41 - clicking on Cart button
+2025-06-21 22:28:53 INFO  TS_008_Add_to_Cart:44 - clicking on View Cart
+2025-06-21 22:28:53 INFO  TS_008_Add_to_Cart:47 - In Shopping Cart Page
+2025-06-21 22:34:55 INFO  TS_008_Add_to_Cart:19 - Entering a Product name
+2025-06-21 22:34:55 INFO  TS_008_Add_to_Cart:21 - Clicking on Search button
+2025-06-21 22:34:56 INFO  TS_008_Add_to_Cart:25 - clicking on Add To Cart
+2025-06-21 22:34:56 INFO  TS_008_Add_to_Cart:27 - Getting Add To Cart Msg
+2025-06-21 22:34:56 INFO  TS_008_Add_to_Cart:41 - clicking on Cart button
+2025-06-21 22:34:56 INFO  TS_008_Add_to_Cart:44 - clicking on View Cart
+2025-06-21 22:37:21 INFO  TS_008_Add_to_Cart:19 - Entering a Product name
+2025-06-21 22:37:21 INFO  TS_008_Add_to_Cart:21 - Clicking on Search button
+2025-06-21 22:37:22 INFO  TS_008_Add_to_Cart:25 - clicking on Add To Cart
+2025-06-21 22:37:22 INFO  TS_008_Add_to_Cart:27 - Getting Add To Cart Msg
+2025-06-21 22:37:22 INFO  TS_008_Add_to_Cart:41 - clicking on Cart button
+2025-06-21 22:37:23 INFO  TS_008_Add_to_Cart:44 - clicking on View Cart
+2025-06-21 22:37:23 INFO  TS_008_Add_to_Cart:47 - In Shopping Cart Page
+2025-06-21 22:37:23 INFO  TS_008_Add_to_Cart:62 - Finished
+2025-06-21 23:03:15 INFO  TS_009_Wish_List:18 - Clicked on My Account
+2025-06-21 23:03:16 INFO  TS_009_Wish_List:20 - Clicked on Login
+2025-06-21 23:03:16 INFO  TS_009_Wish_List:25 - Email entered
+2025-06-21 23:03:16 INFO  TS_009_Wish_List:27 - Password entered
+2025-06-21 23:03:16 INFO  TS_009_Wish_List:29 - clicked on login
+2025-06-21 23:05:34 INFO  TS_009_Wish_List:18 - Clicked on My Account
+2025-06-21 23:05:35 INFO  TS_009_Wish_List:20 - Clicked on Login
+2025-06-21 23:05:35 INFO  TS_009_Wish_List:25 - Email entered
+2025-06-21 23:05:35 INFO  TS_009_Wish_List:27 - Password entered
+2025-06-21 23:05:35 INFO  TS_009_Wish_List:29 - clicked on login
+2025-06-21 23:31:30 INFO  TS_009_Wish_List:24 - Clicked on My Account
+2025-06-21 23:31:35 INFO  TS_009_Wish_List:26 - Clicked on Login
+2025-06-21 23:31:35 INFO  TS_009_Wish_List:31 - Email entered
+2025-06-21 23:31:36 INFO  TS_009_Wish_List:33 - Password entered
+2025-06-21 23:31:36 INFO  TS_009_Wish_List:35 - clicked on login
+2025-06-21 23:31:37 INFO  TS_009_Wish_List:39 - hover Over Desktop
+2025-06-21 23:31:38 INFO  TS_009_Wish_List:41 - click On Show AllDesktop
+2025-06-21 23:31:38 INFO  TS_009_Wish_List:44 - clicking On Mac sub column
+2025-06-21 23:31:38 INFO  TS_009_Wish_List:46 - clicking On Show Add to wish list
+2025-06-21 23:31:39 INFO  TS_009_Wish_List:48 - clicking on wish list link

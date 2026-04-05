@@ -60,7 +60,7 @@
                 </li>
                 <li>
                   <a href="#" panel-name="group-Suite" class="navigator-link ">
-                    <span>2 groups</span>
+                    <span>0 groups</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -92,7 +92,7 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">2 methods,   2 passed</span>
+                    <span class="method-stats">1 method,   1 passed</span>
                   </li>
                   <li>
                     <span class="method-list-title passed">Passed methods</span>
@@ -103,12 +103,7 @@
                     <div class="method-list-content passed suite-Suite">
                       <span>
                         <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Suite" title="testCases.TS_002_LoginTest" class="method navigator-link" hash-for-method="account_Login">account_Login</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img src="passed.png" width="3%"/>
-                        <a href="#" panel-name="suite-Suite" title="testCases.TS_001_Registration" class="method navigator-link" hash-for-method="account_Register">account_Register</a> <!-- method navigator-link -->
+                        <a href="#" panel-name="suite-Suite" title="testCases.TS_009_Wish_List" class="method navigator-link" hash-for-method="testWishList">testWishList</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content passed suite-Suite -->
@@ -126,29 +121,14 @@
           <div class="suite-Suite-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
-              <span class="class-name">testCases.TS_001_Registration</span>
+              <span class="class-name">testCases.TS_009_Wish_List</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="account_Register">
-                  </a> <!-- account_Register -->
-                  <span class="method-name">account_Register</span>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-            </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-Suite-class-passed -->
-          <div class="suite-Suite-class-passed">
-            <div class="main-panel-header rounded-window-top">
-              <img src="passed.png"/>
-              <span class="class-name">testCases.TS_002_LoginTest</span>
-            </div> <!-- main-panel-header rounded-window-top -->
-            <div class="main-panel-content rounded-window-bottom">
-              <div class="method">
-                <div class="method-content">
-                  <a name="account_Login">
-                  </a> <!-- account_Login -->
-                  <span class="method-name">account_Login</span>
+                  <a name="testWishList">
+                  </a> <!-- testWishList -->
+                  <span class="method-name">testWishList</span>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -170,8 +150,7 @@
     &lt;parameter name=&quot;os&quot; value=&quot;Windows&quot;/&gt;
     &lt;parameter name=&quot;browser&quot; value=&quot;chrome&quot;/&gt;
     &lt;classes&gt;
-      &lt;class name=&quot;testCases.TS_001_Registration&quot;/&gt;
-      &lt;class name=&quot;testCases.TS_002_LoginTest&quot;/&gt;
+      &lt;class name=&quot;testCases.TS_009_Wish_List&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- Test --&gt;
 &lt;/suite&gt; &lt;!-- Suite --&gt;
@@ -185,7 +164,7 @@
           <div class="main-panel-content rounded-window-bottom">
             <ul>
               <li>
-                <span class="test-name">Test (2 classes)</span>
+                <span class="test-name">Test (1 class)</span>
               </li>
             </ul>
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -195,26 +174,6 @@
             <span class="header-content">Groups for Suite</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
-            <div class="test-group">
-              <span class="test-group-name">Master</span>
-              <br/>
-              <div class="method-in-group">
-                <span class="method-in-group-name">account_Login</span>
-                <br/>
-              </div> <!-- method-in-group -->
-            </div> <!-- test-group -->
-            <div class="test-group">
-              <span class="test-group-name">Sanity</span>
-              <br/>
-              <div class="method-in-group">
-                <span class="method-in-group-name">account_Login</span>
-                <br/>
-              </div> <!-- method-in-group -->
-              <div class="method-in-group">
-                <span class="method-in-group-name">account_Register</span>
-                <br/>
-              </div> <!-- method-in-group -->
-            </div> <!-- test-group -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
         <div panel-name="times-Suite" class="panel">
@@ -231,20 +190,16 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(2);
+data.addRows(1);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'account_Register')
-data.setCell(0, 2, 'testCases.TS_001_Registration')
-data.setCell(0, 3, 4791);
-data.setCell(1, 0, 1)
-data.setCell(1, 1, 'account_Login')
-data.setCell(1, 2, 'testCases.TS_002_LoginTest')
-data.setCell(1, 3, 3171);
+data.setCell(0, 1, 'testWishList')
+data.setCell(0, 2, 'testCases.TS_009_Wish_List')
+data.setCell(0, 3, 9291);
 window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 7 seconds</span>
+              <span class="suite-total-time">Total running time: 9 seconds</span>
               <div id="times-div-Suite">
               </div> <!-- times-div-Suite -->
             </div> <!-- times-div -->
@@ -270,33 +225,18 @@ return data;
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="chronological-class">
-              <div class="chronological-class-name">testCases.TS_001_Registration</div> <!-- chronological-class-name -->
+              <div class="chronological-class-name">testCases.TS_009_Wish_List</div> <!-- chronological-class-name -->
               <div class="configuration-class before">
                 <span class="method-name">setup(Windows, chrome)</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
-                <span class="method-name">account_Register</span>
-                <span class="method-start">62873 ms</span>
+                <span class="method-name">testWishList</span>
+                <span class="method-start">5988 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">67706 ms</span>
-              </div> <!-- configuration-class after -->
-            </div> <!-- chronological-class -->
-            <div class="chronological-class">
-              <div class="chronological-class-name">testCases.TS_002_LoginTest</div> <!-- chronological-class-name -->
-              <div class="configuration-class before">
-                <span class="method-name">setup(Windows, chrome)</span>
-                <span class="method-start">68220 ms</span>
-              </div> <!-- configuration-class before -->
-              <div class="test-method">
-                <span class="method-name">account_Login</span>
-                <span class="method-start">72999 ms</span>
-              </div> <!-- test-method -->
-              <div class="configuration-class after">
-                <span class="method-name">tearDown</span>
-                <span class="method-start">76175 ms</span>
+                <span class="method-start">15297 ms</span>
               </div> <!-- configuration-class after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
