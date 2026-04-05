@@ -57,7 +57,7 @@ public class HomePage extends BasePage
 	{
 		lnkLogin.click();
 	}
-	//Test
+	//Test to commit
 	public void searchProduct(String product)
 	{
 		txtSearch.sendKeys(product);
